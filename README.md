@@ -35,34 +35,25 @@ Front-end : `Bootstrap, SCSS, HTML,CSS, Javascript`
 <br/><br/>
 Database: `Sqlite3`
 <br/><br/>
-
-  
+ 
  ### Snapshots
 
 **1. Signup Page**
-
 <p align="left"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/signup.jpeg" height=200 /> </p>
 
 **2. Login Page**
-
 <p align="left"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/login.jpeg" height=200 /> </p>
 
 **3. Home/Feed Page**
-
 <p align="left"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/home.jpeg" height=200 /> </p>
 
 **4. Comment Display**
-
 <p align="left"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/comment.jpeg" height=200 /> </p>
 
 **5. Profile Pages**
-
-**User Profile**
-
 <p align="left"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/profile.jpeg" height=200 /> </p>
 
 **Other's Profile**
-
 <p align="left"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/password.jpeg" height=200 /> </p>
 
 
