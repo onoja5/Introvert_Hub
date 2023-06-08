@@ -41,34 +41,34 @@ Database: `Sqlite3`
 
 **1. Signup Page**
 
-![Signup page]<p align="center"> <img src="{% static 'images/signup.jpeg' %}" height=200 /> </p>
+![Signup page]<p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/signup.jpeg" height=200 /> </p>
 
 **2. Login Page**
 
-![Login page]<p align="center"> <img src="{% static 'images/login.jpeg' %}" height=200 /> </p>
+![Login page]<p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/login.jpeg" height=200 /> </p>
 
 **3. Home/Feed Page**
 
-![Home Page] <p align="center"> <img src="{% static 'images/home.jpeg' %}" height=200 /> </p>
+![Home Page] <p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/home.jpeg" height=200 /> </p>
 
 **4. Comment Display**
 
-![Comment Display] <p align="center"> <img src="{% static 'images/comment.jpeg' %}" height=200 /> </p>
+![Comment Display] <p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/comment.jpeg" height=200 /> </p>
 
 **5. Profile Pages**
 
 **User Profile**
 
-![Show Profile]<p align="center"> <img src="{% static 'images/profile.jpeg' %}" height=200 /> </p>
+![Show Profile]<p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/profile.jpeg" height=200 /> </p>
 
 **Other's Profile**
 
-![127 0 0 1_8000_4_profile_(Nest Hub)]<p align="center"> <img src="{% static 'images/password.jpeg' %}" height=200 /> </p>
+![127 0 0 1_8000_4_profile_(Nest Hub)]<p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/password.jpeg" height=200 /> </p>
 
 
 **6. Search Result Users Page**
 
-![Search Result]<p align="center"> <img src="{% static 'images/search.jpeg' %}" height=200 /> </p>
+![Search Result]<p align="center"> <img src="[{% static 'images/search.jpeg' %}](https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/search.jpeg)" height=200 /> </p>
 
 **7. Create a user profile page**
 
