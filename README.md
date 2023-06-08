@@ -1,10 +1,10 @@
 # Introvert Hub
 
-# This application provide a platform for individuals who are indivifuas to socialize and connect with like-minded people, allowing them to unwind and clear their minds after a long day or a hectic IT project.
+This application provide a platform for individuals who are indivifuas to socialize and connect with like-minded people, allowing them to unwind and clear their minds after a long day or a hectic IT project.
 
 # Purpose
 
-# The purpose of the application is to provide a platform for these individuals to socialize and connect with like-minded people, allowing them to unwind and clear their minds after a long day or a hectic IT project.
+The purpose of the application is to provide a platform for these individuals to socialize and connect with like-minded people, allowing them to unwind and clear their minds after a long day or a hectic IT project.
 
 
 <p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/truffle.png" height=200 /> </p>
