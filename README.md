@@ -68,7 +68,7 @@ Database: `Sqlite3`
 
 **6. Search Result Users Page**
 
-![Search Result]<p align="center"> <img src="[{% static 'images/search.jpeg' %}](https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/search.jpeg)" height=200 /> </p>
+![Search Result] https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/search.jpeg)
 
 **7. Create a user profile page**
 
