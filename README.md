@@ -7,7 +7,7 @@
 # The purpose of the application is to provide a platform for these individuals to socialize and connect with like-minded people, allowing them to unwind and clear their minds after a long day or a hectic IT project.
 
 
-<p align="center"> <img src="https://drive.google.com/file/d/1nXzIDBA9yORXbShZ_niprBDgST2vgvur/view?usp=drive_link" height=200 /> </p>
+<p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/truffle.png" height=200 /> </p>
 
 
 <p align="center"> <img src="https://drive.google.com/file/d/1nXzIDBA9yORXbShZ_niprBDgST2vgvur/view?usp=drive_link" height=500 /> </p>
