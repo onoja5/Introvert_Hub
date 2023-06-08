@@ -63,15 +63,10 @@ Database: `Sqlite3`
 
 **Other's Profile**
 
-![Password Reset]<p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/password.jpeg" height=200 /> </p>
+![Password Reset]<p align="left"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/password.jpeg" height=200 /> </p>
 
 
 **6. Search Result Users Page**
 
-![Search Result] <p align="center"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/search.jpeg" height=200 /> </p>
+![Search Result] <p align="left"> <img src="https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/search.jpeg" height=200 /> </p>
 
-https://github.com/onoja5/Introvert_Hub/blob/main/socials/static/images/search.jpeg
-
-**7. Create a user profile page**
-
-![Create user profile](https://user-images.githubusercontent.com/84091455/208101772-e022f7ee-5c8f-4799-b0be-b5d43effd1d9.png)
