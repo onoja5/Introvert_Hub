@@ -1,6 +1,6 @@
 # Introvert Hub
 
-This application provide a platform for individuals who are indivifuas to socialize and connect with like-minded people, allowing them to unwind and clear their minds after a long day or a hectic IT project.
+This application provide a platform for individuals who are individuas to socialize and connect with like-minded people, allowing them to unwind and clear their minds after a long day or a hectic IT project.
 
 # Purpose
 
